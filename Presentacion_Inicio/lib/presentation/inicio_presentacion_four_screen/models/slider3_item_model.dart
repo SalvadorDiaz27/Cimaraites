@@ -1,0 +1,1 @@
+class Slider3ItemModel {}
